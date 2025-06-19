@@ -50,4 +50,8 @@ jacoco.exec
 *.class
 
 # Environment files
+<<<<<<< HEAD
 .env
+=======
+.env
+>>>>>>> 50d983636b05ac988d1ab43bc27fc658c61dfc7a
