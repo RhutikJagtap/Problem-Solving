@@ -1,1 +1,0 @@
-Array is an indexed Collection of fixed number of Homogenous Data elements
