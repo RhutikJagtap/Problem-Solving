@@ -1,5 +1,6 @@
 package day4;
 
+//Right angle triangle pattern 
 public class Pattern1 {
 
 	public static void main(String[] args) {
