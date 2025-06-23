@@ -1,4 +1,4 @@
-package day4;
+package day3;
 
 import java.util.Scanner;
 
@@ -34,3 +34,4 @@ public class GabrielLameGCD {
 	}
 
 }
+
