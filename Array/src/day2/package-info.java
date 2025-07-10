@@ -7,6 +7,7 @@ package day2;
  * 4.find maximum from array2
  * 5.find minimum from array1
  * 6.find minimum from array2
+ * 7.print index of maximum value
  *
  *
  */
