@@ -9,5 +9,6 @@ package day2;
  * 6.find minimum from array2
  * 7.print index of maximum value
  * 8.print index of minimum value
+ * 9.print sum of  n-1 elements in the array
  *
  */
