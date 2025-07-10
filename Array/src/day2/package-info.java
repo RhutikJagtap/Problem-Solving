@@ -8,6 +8,6 @@ package day2;
  * 5.find minimum from array1
  * 6.find minimum from array2
  * 7.print index of maximum value
- *
+ * 8.print index of minimum value
  *
  */
