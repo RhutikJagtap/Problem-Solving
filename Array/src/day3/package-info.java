@@ -6,4 +6,5 @@ package day3;
  * 3.count the particular  element occur in array
  * 4.count how many times maximum number occur in array
  * 5.count how many times minimum number occur  in array
+ * 6.count how many times maximum number occur in array(Optimized)
 */
