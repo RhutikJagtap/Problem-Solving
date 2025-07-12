@@ -18,4 +18,7 @@ package day4;
  * I/P  1 1 3 4 6      I/P  7 8 1 6  2
  * O/P    3               O/P  2
  * 
+ * 6.print the max pair sum from array 
+ * I/P   3 2 7 5 1 4 10 6
+ * O/P   17
 */
