@@ -25,4 +25,8 @@ package day4;
  * 7.print the min pair sum from array 
  * I/P   3 2 7 5 1 4 10 6
  * O/P   3
+ * 
+ * 8.print the max pair product from array 
+ * I/P   3 2 7 5 1 4 10 6
+ * O/P   70
 */
