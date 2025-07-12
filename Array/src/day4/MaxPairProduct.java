@@ -3,8 +3,8 @@ package day4;
 import java.util.Scanner;
 
 public class MaxPairProduct {
-	
-	static int maxPairSum(int[] arr) {
+
+	static int maxPairProduct(int[] arr) {
 		int firstLargest = arr[0], secondLargest = Integer.MIN_VALUE;
 
 		for (int i = 1; i < arr.length; i++) {
@@ -16,7 +16,7 @@ public class MaxPairProduct {
 			}
 		}
 
-		return firstLargest*secondLargest;
+		return firstLargest * secondLargest;
 	}
 
 	public static void main(String[] args) {
@@ -32,7 +32,7 @@ public class MaxPairProduct {
 			arr[i] = scanner.nextInt();
 		}
 
-		int result = maxPairSum(arr);
+		int result = maxPairProduct(arr);
 		System.out.println("Max Pair Product =" + result);
 	}
 }

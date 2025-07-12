@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class MinPairSum {
 
-	static int secondSmallest(int[] arr) {
+	static int minPairSum(int[] arr) {
 		int firstSmallest = arr[0], secondSmallest = Integer.MAX_VALUE;
 
 		for (int i = 1; i < arr.length; i++) {
@@ -32,7 +32,7 @@ public class MinPairSum {
 			arr[i] = scanner.nextInt();
 		}
 
-		int result = secondSmallest(arr);
+		int result = minPairSum(arr);
 		System.out.println("Min Pair Sum =  " + result);
 	}
 
