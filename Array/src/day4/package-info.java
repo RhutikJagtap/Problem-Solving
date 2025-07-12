@@ -13,4 +13,9 @@ package day4;
  *  4.print the second smallest element from array (without using sorting) variation 1
  * I/P  10 9 2 6 2      I/P  7 8 1 6  2
  * O/P    2               O/P  2
+ * 
+ * 5.print the second smallest element from array (without using sorting) variation 2
+ * I/P  1 1 3 4 6      I/P  7 8 1 6  2
+ * O/P    3               O/P  2
+ * 
 */
