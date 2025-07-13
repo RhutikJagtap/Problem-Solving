@@ -16,4 +16,5 @@ package day5;
  * 13.print such pairs whose sum is odd
  * 14.print such pairs whose product is Even 
  * 15.print such pairs whose product is odd
+ * 16.print such pairs whose any value is multiple of 3
  */
