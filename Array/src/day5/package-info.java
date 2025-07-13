@@ -8,4 +8,5 @@ package day5;
  * 5.print such pairs whose product equal to given value
  * 6.print such pairs whose difference equal to given value
  * 7.print such pair whose sum is max
+ * 8.print such pair whose first value  is greater than second value
  */
