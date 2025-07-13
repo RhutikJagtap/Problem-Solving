@@ -11,7 +11,8 @@ package day5;
  * 8.print such pair whose first value  is greater than second value
  * 9.print such pair whose first value  is smaller than second value
  * 10.print such pairs whose first value is even
- * 10.print such pairs whose first value is odd
- * 11.print such pairs whose sum is Even
- * 12.print such pairs whose sum is odd
+ * 11.print such pairs whose first value is odd
+ * 12.print such pairs whose sum is Even
+ * 13.print such pairs whose sum is odd
+ * 14.print such pairs whose product is Even 
  */
