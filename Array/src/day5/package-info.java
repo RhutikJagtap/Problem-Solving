@@ -13,4 +13,5 @@ package day5;
  * 10.print such pairs whose first value is even
  * 10.print such pairs whose first value is odd
  * 11.print such pairs whose sum is Even
+ * 12.print such pairs whose sum is odd
  */
