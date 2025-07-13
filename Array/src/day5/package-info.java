@@ -10,5 +10,5 @@ package day5;
  * 7.print such pair whose sum is max
  * 8.print such pair whose first value  is greater than second value
  * 9.print such pair whose first value  is smaller than second value
-
+ * 10.print such pairs whose first value is even
  */
