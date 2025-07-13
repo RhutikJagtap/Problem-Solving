@@ -6,4 +6,5 @@ package day5;
  * 3.print all the pairs of array
  * 4.print such pairs whose sum equal to given sum
  * 5.print such pairs whose product equal to given value
+ * 6.print such pairs whose difference equal to given value
  */
