@@ -9,4 +9,6 @@ package day5;
  * 6.print such pairs whose difference equal to given value
  * 7.print such pair whose sum is max
  * 8.print such pair whose first value  is greater than second value
+ * 9.print such pair whose first value  is smaller than second value
+
  */
