@@ -31,5 +31,8 @@ package day6;
  * 8.given a sorted array of integers values print the smallest repeating element
  *  I/P 2 3 3 3 4 5 7 7 9 11
  *  O/P 3
-
+ *  
+ *  9.given a sorted array of integers values print the missing element 
+ *  I/p  1 2 3 5 6 7
+ *  O/P  4
 */
