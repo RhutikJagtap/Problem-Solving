@@ -10,4 +10,8 @@ package day6;
  *  3.given a sorted array of integers values print the unique elements
  *  I/P 2 2 2 3 4 4 4 23
  *  O/P 3 23
+ *  
+ *  4. given a sorted array of integers values print the repeated elements
+ * I/P 2 2 2 3 4 4 4 23
+ * O/P 2 4 
 */
