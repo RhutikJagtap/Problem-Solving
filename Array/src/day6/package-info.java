@@ -27,4 +27,9 @@ package day6;
  *  7.given a sorted array of integers values print the largest repeating element
  *  I/P 2 3 3 3 4 5 7 7 9 11
  *  O/P 7
+ *  
+ * 8.given a sorted array of integers values print the smallest repeating element
+ *  I/P 2 3 3 3 4 5 7 7 9 11
+ *  O/P 3
+
 */
