@@ -16,4 +16,7 @@ package day6;
  * O/P 2 4 
  * 
  * 4. given a sorted array of integers values print the  elements which occur 3 times
+ * 5.given a sorted array of integers values print all the elements of the array without repeating  in reverse order
+ *  I/p   2 2 2 3 4 4 4 23
+ *  O/P  23 4 3 2
 */
