@@ -23,4 +23,8 @@ package day6;
  *  6.given a sorted array of integers values print the count of unique elements
  *  I/P 2 2 2 3 4 4 4 23
  *  O/P 2
+ *  
+ *  7.given a sorted array of integers values print the largest repeating element
+ *  I/P 2 3 3 3 4 5 7 7 9 11
+ *  O/P 7
 */
