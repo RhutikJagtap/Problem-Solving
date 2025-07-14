@@ -19,4 +19,8 @@ package day6;
  * 5.given a sorted array of integers values print all the elements of the array without repeating  in reverse order
  *  I/p   2 2 2 3 4 4 4 23
  *  O/P  23 4 3 2
+ *  
+ *  6.given a sorted array of integers values print the count of unique elements
+ *  I/P 2 2 2 3 4 4 4 23
+ *  O/P 2
 */
