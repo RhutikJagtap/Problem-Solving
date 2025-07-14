@@ -14,4 +14,6 @@ package day6;
  *  4. given a sorted array of integers values print the repeated elements
  * I/P 2 2 2 3 4 4 4 23
  * O/P 2 4 
+ * 
+ * 4. given a sorted array of integers values print the  elements which occur 3 times
 */
