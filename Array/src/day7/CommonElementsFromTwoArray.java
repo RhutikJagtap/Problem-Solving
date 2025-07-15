@@ -2,6 +2,7 @@ package day7;
 
 import java.util.Scanner;
 
+//print the common elements from two array (both array are sorted in ascending order)
 public class CommonElementsFromTwoArray {
 	static void commonElements(int[] arr1, int[] arr2) {
 		int i = 0;
