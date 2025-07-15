@@ -56,4 +56,9 @@ package day7;
  * arr1 = [1, 2]
  * arr2 = [3, 4]
  * O/P: [1, 2, 3, 4]
+ * 
+ * 10.merge alternate  elements from array
+ * arr1 = [1, 3, 5]
+ * arr2 = [2, 4, 6,7]
+# O/P: [1, 2, 3, 4, 5, 6,7]
  */
