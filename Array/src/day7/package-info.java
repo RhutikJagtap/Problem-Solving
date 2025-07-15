@@ -30,4 +30,11 @@ package day7;
  *   size 7
  *   8 8 7 6 4 3 2
  *   O/P 3 6 8
+ *   
+ *   6.print the common elements from two array(both array sorted in descending order)
+ *   size  5
+ *    9 8 6 5 3
+ *   size 7
+ *   8 8 7 6 4 3 2
+ *   O/P 3 6 8
  */
