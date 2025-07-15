@@ -44,4 +44,11 @@ package day7;
  * size 7
  * 8 8 7 6 4 3 2
  * O/P 8 6 3
+ * 
+ * 8.given two sorted array merge these arrays such that resultant array is sorted
+ * size 5
+ * 3 5 7 9 13
+ * size 8
+ * 1 2 3 4 9 15 17 19
+ * O/P 1 2 3 3 4 5 7 9 9 13 15 17 19
  */
