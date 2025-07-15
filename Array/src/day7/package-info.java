@@ -52,5 +52,8 @@ package day7;
  * 1 2 3 4 9 15 17 19
  * O/P 1 2 3 3 4 5 7 9 9 13 15 17 19
  * 
- * 
+ * 9.Simple Merge two arrays
+ * arr1 = [1, 2]
+ * arr2 = [3, 4]
+ * O/P: [1, 2, 3, 4]
  */
