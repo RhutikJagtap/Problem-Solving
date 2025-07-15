@@ -16,4 +16,12 @@ package day7;
  * where n= total number of terms
  *         n = lastTerm-firstTerm+1
  *    
+ * 4.print the common elements from two array(both array are sorted in ascending order)
+ *    Enter the size of first array
+ *   size  5
+ *    3 5 6 8 9
+ *   size 7
+ *   2 3 4 6 7 8 8
+ *   O/P 3 6 8
+
  */
