@@ -9,5 +9,11 @@ package day7;
  * I/P size 8
  *    11 15 12 18 17 13 19 16
  * O/P  14
+ * 
+ * 3.find Missing element using Arithmetic Progression formula
+ * sum=(n  *(firstTerm + lastTerm))/2
+ *     
+ * where n= total number of terms
+ *         n = lastTerm-firstTerm+1
  *    
  */
