@@ -8,4 +8,16 @@ package day8;
  * O/P  2 5 9 3 6 10 4 7 11 8 12 13 
  * 
  * 2.given an array of size N print all the subarrays of size k
+ * 
+ * 3.given an array of size N,print the sum of all subarrays of given size
+ * I/p 9
+ *     5  1 2 4 9 3 1 3 3
+ *     3(size)
+ * O/P 8
+ *      7
+ *      15
+ *      16
+ *      13
+ *      7
+ *      7    
  */
