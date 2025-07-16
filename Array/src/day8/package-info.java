@@ -38,4 +38,8 @@ package day8;
  * O/P 1 2 4
  *       3 1 3
  *       1 3 3
+ *  
+ * 6.given an array of size N,print all the subarrays of all sizes
+ * I/p 9
+ *     5  1 2 4 9 3 1 3 3
  */
