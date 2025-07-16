@@ -45,5 +45,7 @@ package day8;
  *     
  * 7.given an array of size N,print all the subarrays of all sizes in reverse
  * I/p 9
- *     5  1 2 4 9 3 1 3 3    
+ *     5  1 2 4 9 3 1 3 3   
+ *     
+ * 8.given an array of size N,print all the subarrays sum of all sizes
  */
