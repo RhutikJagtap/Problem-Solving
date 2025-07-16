@@ -3,9 +3,9 @@ package day8;
 import java.util.Scanner;
 
 //print count of sub arrays of given size whose sum is equal to given sum
-public class SubArrayOfSizeWhoseSumEqualTo {
+public class SubArraySumCount{
 
-	static int printSubArrays(int[] arr, int size, int sum) {
+	static int printSubArraySumCount(int[] arr, int size, int sum) {
 		int count = 0;
 		for (int i = 0; i <= arr.length - size; i++) {
 			int subArraySum = 0;
@@ -38,7 +38,7 @@ public class SubArrayOfSizeWhoseSumEqualTo {
 		System.out.println("Enter the sum of subarray");
 		int sum = scanner.nextInt();
 
-		int count = printSubArrays(arr, size, sum);
+		int count = printSubArraySumCount(arr, size, sum);
 		System.out.println("Count = " + count);
 	}
 
