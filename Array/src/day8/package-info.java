@@ -19,5 +19,12 @@ package day8;
  *      16
  *      13
  *      7
- *      7    
+ *      7  
+ *      
+ * 3.given an array of size N,print count of subarrays of given size whose sum is equal to
+ * I/p 9
+ *     5  1 2 4 9 3 1 3 3
+ *     3(size)
+ *     k=7
+ * O/P 
  */
