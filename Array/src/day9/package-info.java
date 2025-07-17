@@ -17,5 +17,12 @@ package day9;
  * O/P
  * -1 -1 -1 5 3 4 5 3 8 2
  * 
+ * 3.Given an array of positive integers values.
+ * write a program to put all the 0 to the end of the array.
+ * note: don't create new array
+ * I/p 10
+ * 3 7 0 4 0 6 0 8 0 3
+ * O/P
+ * 3 7 4 6 8 3 0 0 0 0
  */
 
