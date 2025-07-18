@@ -2,29 +2,22 @@ package day10;
 
 import java.util.Scanner;
 
-public class ConsecutiveSubArray2 {
+public class ConsecutiveSubArray3 {
 
-	static int printLongestLengthOfConsecutive(int[] arr) {
-		int longestLength = Integer.MIN_VALUE;
+	static void printLengthOfConsecutive(int[] arr) {
 
 		int length = 1;
 		for (int i = 0; i < arr.length - 1; i++) {
 			if (arr[i + 1] - arr[i] == 1) {
 				length++;
 			} else {
-				if (length > longestLength) {
-					longestLength = length;
-				}
+				System.out.print(length);
 				length = 1;
+				System.out.println();
 			}
 
 		}
-
-		if (length > longestLength) {
-			longestLength = length;
-		}
-
-		return longestLength;
+		System.out.print(length);
 	}
 
 	public static void main(String[] args) {
@@ -40,8 +33,7 @@ public class ConsecutiveSubArray2 {
 			arr[i] = scanner.nextInt();
 		}
 
-		System.out.println("Longest Length of Consecutive SubArrays");
-		int result = printLongestLengthOfConsecutive(arr);
-		System.out.println(result);
+		System.out.println("Length of Consecutive SubArrays");
+		printLengthOfConsecutive(arr);
 	}
 }
