@@ -7,4 +7,12 @@ package day1;
  *4.given a string , write a program to reverse the string
  *I/P  hello
  *O/P olleh
+ *5.given a string , write a program to check  if the string is palindrome or not(using reverse string approach) 
+ *I/P  hello          				 I/P MADAM                I/P   racecar
+ *O/P not palindrome    		O/P palindrome              O/P  palindrome
+ *
+*6.given a string , write a program to check  if the string is palindrome or not.
+*(without reversing string and without creating new string) 
+ *I/P  hello          				 I/P MADAM                I/P   racecar
+ *O/P not palindrome    		O/P palindrome              O/P  palindrome
  */
