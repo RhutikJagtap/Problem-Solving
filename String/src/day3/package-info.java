@@ -29,7 +29,11 @@ package day3;
  * I/p India@23
  * O/p India
  * 
-  *7.write a program to remove uppercase character from the string
+ *7.write a program to remove uppercase character from the string
  * I/p India@23
  * O/p ndia@23
+ * 
+  *8.write a program to remove lowercase character from the string
+ * I/p India@23
+ * O/p I@23
  */
