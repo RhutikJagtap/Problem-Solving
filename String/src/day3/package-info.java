@@ -20,4 +20,8 @@ package day3;
  *       consonant count =2
  *       numeric count = 2
  *       special character count=1
+ *       
+ *5.write a program to remove special character from the string
+ * I/p India@23
+ * O/p India23
  */
