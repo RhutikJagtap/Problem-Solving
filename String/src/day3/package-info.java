@@ -28,4 +28,8 @@ package day3;
  *6.write a program to remove numeric character as well as special character from the string
  * I/p India@23
  * O/p India
+ * 
+  *7.write a program to remove uppercase character from the string
+ * I/p India@23
+ * O/p ndia@23
  */
