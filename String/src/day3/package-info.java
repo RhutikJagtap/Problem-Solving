@@ -13,4 +13,11 @@ package day3;
  * I/p hello
  * O/p vowel count=2
  *       consonant count =3
+ *     
+ *4.write a program to print vowels count, consonants count , numeric count,special character count  in the string
+ * I/p India@23
+ * O/p vowel count=3
+ *       consonant count =2
+ *       numeric count = 2
+ *       special character count=1
  */
