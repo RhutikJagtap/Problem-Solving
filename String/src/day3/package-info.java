@@ -44,4 +44,8 @@ package day3;
  *10.write a program to  rearrange the string
  * I/p He2L4Lo8#3$
  * O/p HeLLo17
+ * 
+  *11.write a program to  convert uppercase charcter to lowercase and vice versa in the string
+ * I/p HeLLo
+ * O/p hEllO
  */
