@@ -36,4 +36,8 @@ package day3;
   *8.write a program to remove lowercase character from the string
  * I/p India@23
  * O/p I@23
+ * 
+ *9.write a program to  rearrange the string
+ * I/p Hello$5WoRLD
+ * O/p HWRLDelloo
  */
