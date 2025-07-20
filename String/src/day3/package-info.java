@@ -40,4 +40,8 @@ package day3;
  *9.write a program to  rearrange the string
  * I/p Hello$5WoRLD
  * O/p HWRLDelloo
+ * 
+ *10.write a program to  rearrange the string
+ * I/p He2L4Lo8#3$
+ * O/p HeLLo17
  */
