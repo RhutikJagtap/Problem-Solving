@@ -5,4 +5,8 @@ package day4;
  *1.write a program to  convert lowercase charcter to uppercase in the string.
  * I/p hello       I/P Hello@123
  * O/p HELLO    O/P HELLO@123
+ * 
+ *2.write a program to  swap lowercase charcter to uppercase  and vice versa in the string.
+ * I/p Hello@123      
+ * O/p hELLO@123
  */
