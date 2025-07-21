@@ -12,5 +12,9 @@ package day4;
  *
  *3.given a string,remove all the spaces at the starting and ending  of the string
  *I/P  ----how---are--you----
- *O/P  how---are--you
+ *O/P  how-are-you
+ *
+ *4.given a string,remove all the extra spaces  of the string
+ *I/P  ----how---are--you----
+ *O/P  how-are-you
  * */
