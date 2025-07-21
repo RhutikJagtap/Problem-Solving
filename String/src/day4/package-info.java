@@ -9,4 +9,8 @@ package day4;
  *2.write a program to  swap lowercase charcter to uppercase  and vice versa in the string.
  * I/p Hello@123      
  * O/p hELLO@123
- */
+ *
+ *3.given a string,remove all the spaces at the starting and ending  of the string
+ *I/P  ----how---are--you----
+ *O/P  how---are--you
+ * */
