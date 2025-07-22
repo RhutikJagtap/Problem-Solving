@@ -10,7 +10,7 @@ package day5;
  * I/P banana
  * O/P b*an*an*a
  * 
- * 3.given a string and character, print the index of the character
+ * 3.given a string convert the string and print the followingcter
  * I/P banana
  * O/P bAnAnA
  * 
@@ -18,7 +18,7 @@ package day5;
  * I/P banana
  * O/P bAanAanAa
  * 
- * 5.given a string convert the string and print the following 
+ * 5.given a string and character, print the index of the character
  * I/P matrix
  *      r
  * O/P 3
