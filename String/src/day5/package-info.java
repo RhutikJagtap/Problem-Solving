@@ -22,4 +22,10 @@ package day5;
  * I/P matrix
  *      r
  * O/P 3
+ * 
+ * 
+ * 6.given a two string ,check whether the second string is present in the first string in the same order 
+ * I/P hereiamstackerrank
+ *      tackerrank
+ * O/P yes 
  */
