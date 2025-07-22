@@ -13,4 +13,8 @@ package day5;
  * 3.given a string convert the string and print the following 
  * I/P banana
  * O/P bAnAnA
+ * 
+ * 4.given a string convert the string and print the following 
+ * I/P banana
+ * O/P bAanAanAa
  */

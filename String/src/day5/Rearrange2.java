@@ -2,6 +2,9 @@ package day5;
 
 import java.util.Scanner;
 
+//* 4.given a string convert the string and print the following 
+//* I/P banana
+//* O/P bAanAanAa
 public class Rearrange2 {
 	static String rearrange(String str) {
 		String t = "";
