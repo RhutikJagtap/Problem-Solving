@@ -23,4 +23,9 @@ package day6;
  *i/p  mississippi
  *     issi
  *o/p yes
+ *
+ *4.given a two strings,count how many times second string occur in the  first string
+ *i/p  mississippi
+ *     issi
+ *o/p 2
  */
