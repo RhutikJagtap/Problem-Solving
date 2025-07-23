@@ -36,4 +36,8 @@ package day6;
  *6.given a string , write a program to print all the substrings of all size(larger to smaller)
  *i/p hello
  *o/p
+ *
+ *7.given a string , write a program to print all the palindromic  substrings of all size
+ *i/p mississippi
+ *o/p
  */
