@@ -28,4 +28,8 @@ package day6;
  *i/p  mississippi
  *     issi
  *o/p 2
+ *
+ *5.given a string , write a program to print all the substrings of all size
+ *i/p hello
+ *o/p
  */
