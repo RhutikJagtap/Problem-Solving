@@ -40,4 +40,8 @@ package day6;
  *7.given a string , write a program to print all the palindromic  substrings of all size
  *i/p mississippi
  *o/p
+ *
+ *7.given a string , write a program to print longest palindromic  substrings.
+ *i/p mississippi
+ *o/p ississi
  */
