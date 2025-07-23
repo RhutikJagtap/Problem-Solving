@@ -17,5 +17,10 @@ package day6;
  *   size=4
  *o/p issi
  *	   issi
- *	   ippi   
+ *	   ippi
+ *
+ *3.given a two strings,check whether second string present  in the  first string
+ *i/p  mississippi
+ *     issi
+ *o/p yes
  */
