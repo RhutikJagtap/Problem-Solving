@@ -44,4 +44,9 @@ package day6;
  *7.given a string , write a program to print longest palindromic  substrings.
  *i/p mississippi
  *o/p ississi
+ *
+ 8.given two strings ,compare these if equals return true else false( built function logic equals)
+ *i/p hello
+ *    hello
+ *o/p true
  */
