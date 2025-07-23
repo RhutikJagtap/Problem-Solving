@@ -12,4 +12,10 @@ package day6;
  *      issi
  *      ssip
  *      
+ *2.given a string, print all the palindromic substring
+ *i/p  mississippi
+ *   size=4
+ *o/p issi
+ *	   issi
+ *	   ippi   
  */
