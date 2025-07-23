@@ -32,4 +32,8 @@ package day6;
  *5.given a string , write a program to print all the substrings of all size
  *i/p hello
  *o/p
+ *
+ *6.given a string , write a program to print all the substrings of all size(larger to smaller)
+ *i/p hello
+ *o/p
  */
