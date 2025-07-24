@@ -11,4 +11,12 @@ package day7;
  *2.reverse words in the string
  *i/p India is my country
  *o/p aidnI si ym yrtnuoc
+ *
+ *3.reverse words in the string
+ *i/p India is my country
+ *o/p yrtnuoc ym si aidnI
+ *
+ *4.print words  with length of the string
+ *i/p India is my country
+ *o/p India5 is2 my2 country7 
  */
