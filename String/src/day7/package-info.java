@@ -7,5 +7,8 @@ package day7;
  * o/p how
  *      are 
  *      you
- *      
+ *  
+ *2.reverse words in the string
+ *i/p India is my country
+ *o/p aidnI si ym yrtnuoc
  */
