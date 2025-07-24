@@ -19,4 +19,8 @@ package day7;
  *4.print words  with length of the string
  *i/p India is my country
  *o/p India5 is2 my2 country7 
+ *
+ *5.alternate words  in  the string
+ *India is my country
+ *is India country my 
  */
