@@ -1,0 +1,59 @@
+package day7;
+
+import java.util.Scanner;
+
+public class AlternateWords2 {
+
+	static int countWords(String s) {
+		int count = 0;
+
+		for (int i = 0; i < s.length() - 1; i++) {
+			if (s.charAt(i) == ' ' && s.charAt(i + 1) != ' ') {
+				count++;
+			}
+		}
+		return s.charAt(0) == ' ' ? count : count + 1;
+	}
+
+	static String[] split(String str) {
+		int count = countWords(str);
+
+		String[] arr = new String[count];
+
+		int j = 0;
+		String t = "";
+		for (int i = 0; i < str.length(); i++) {
+			if (str.charAt(i) != ' ') {
+				t = t + str.charAt(i);
+			} else if (t.length() > 0) {
+				arr[j] = t;
+				j++;
+				t = "";
+			}
+		}
+
+		arr[j] = t;
+		return arr;
+	}
+
+	static String reverse(String s) {
+		String t = "";
+		for (int i = s.length() - 1; i >= 0; i--) {
+			t = t + s.charAt(i);
+		}
+		return t;
+	}
+
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+
+		System.out.println("Enter the string");
+		String str = scanner.nextLine();
+
+		String[] result = split(str);
+		for (int i = 0, j = result.length - 1; i < j; i++, j--) {
+			System.out.print(result[i] + result[j] + " ");
+		}
+	}
+
+}

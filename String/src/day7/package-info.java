@@ -23,4 +23,8 @@ package day7;
  *5.alternate words  in  the string
  *India is my country
  *is India country my 
+ *
+ *6.alternate words  in  the string
+ *i/p India is my country
+ *o/p Indiacountry ismy
  */
