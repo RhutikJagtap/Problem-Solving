@@ -26,4 +26,8 @@ package day1;
  *i/p java
  *  ch= a
  *o/p 3
+ *
+ *6.trim(String)
+ *i/p     java    
+ *o/p java
  */
