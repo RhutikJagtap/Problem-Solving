@@ -16,7 +16,7 @@ package day1;
  *o/p 1
  *
  *
- *4.indexOf(char)
+ *4.indexOf(String,char,occurence)
  *i/p java
  *  ch= a
  *  occurence =2
