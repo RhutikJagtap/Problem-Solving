@@ -22,7 +22,7 @@ package day1;
  *  occurence =2
  *o/p 3
  *
- *4.lastIndexOf(String,char)
+ *5.lastIndexOf(String,char)
  *i/p java
  *  ch= a
  *o/p 3
