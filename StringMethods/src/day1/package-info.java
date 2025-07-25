@@ -10,7 +10,7 @@ package day1;
  *i/p HeLlo
  *o/p hello
  *
- *2.indexOf(char)
+ *2.indexOf(String,char)
  *i/p java
  *  a
  *o/p 1
