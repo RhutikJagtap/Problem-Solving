@@ -21,4 +21,9 @@ package day1;
  *  ch= a
  *  occurence =2
  *o/p 3
+ *
+ *4.lastIndexOf(String,char)
+ *i/p java
+ *  ch= a
+ *o/p 3
  */
