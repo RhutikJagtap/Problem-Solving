@@ -14,4 +14,11 @@ package day1;
  *i/p java
  *  a
  *o/p 1
+ *
+ *
+ *2.indexOf(char)
+ *i/p java
+ *  ch= a
+ *  occurence =2
+ *o/p 3
  */
