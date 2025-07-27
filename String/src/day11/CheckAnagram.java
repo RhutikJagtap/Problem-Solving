@@ -3,6 +3,16 @@ package day11;
 import java.util.Arrays;
 import java.util.Scanner;
 
+/*
+funreal
+academy
+o/p false
+
+funreal
+real fun
+o/p  true
+*/
+
 public class CheckAnagram {
 
 	static boolean isAnagram(String s1, String s2) {
