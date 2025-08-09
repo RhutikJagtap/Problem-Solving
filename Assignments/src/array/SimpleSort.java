@@ -1,5 +1,6 @@
 package array;
 
+//sort the array
 public class SimpleSort {
 
 	static void sort(int[] arr) {
