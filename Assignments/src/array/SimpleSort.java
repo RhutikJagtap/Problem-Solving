@@ -1,6 +1,7 @@
 package array;
 
 //sort the array
+//time complexity O(n^2)
 public class SimpleSort {
 
 	static void sort(int[] arr) {
